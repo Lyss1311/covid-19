@@ -11,13 +11,13 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="about-img">
-                    <img src="images/about-img.png" alt="">
+                    <img src="images/about-img_covid19.png" alt="">
                 </div>
             </div>
             <div class="col-md-5">
                 <div class="about-content">
-                    <h2>Who we are</h2>
-                    <p>Photographs are a way of preserving a moment in our lives for the rest of our lives. Many of us have at least been tempted at the flashy array of photo printers which seemingly leap off the shelves at even the least tech-savvy. It surely seems old fashioned to talk about 35mm film and non-digital cameras in today’s day and age.</p>
+                    <h2>¿Qu&eacute; es COVID-19 ?</h2>
+                    <p>La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto m&aacute;s recientemente. Tanto el nuevo virus como la enfermedad eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019.</p>
                 </div>
             </div>
         </div>
@@ -25,57 +25,77 @@
 </section>
 
 
-<section id="middle" class="skill-area" style="background-image: url(images/skill-bg.png)">
+<section id="middle" class="skill-area" style="background-image: url(images/skill-bg_covid19.png)">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 fadeInDown">
                 <div class="skill">
-                    <h2>Our Skills</h2>
-                    <p>All users on MySpace will know that there are millions of people out there. Every <br> day besides so many people joining this community.</p>
+                    <h2>¿Cuáles son los síntomas de la COVID-19?</h2>
+                    <p>Los síntomas más comunes de la COVID-19 son fiebre, cansancio y tos seca. Algunos pacientes pueden presentar dolores, congestión nasal, rinorrea, dolor de garganta o diarrea. Estos síntomas suelen ser leves y aparecen de forma gradual. Algunas personas se infectan pero no desarrollan ningún síntoma y no se encuentran mal. La mayoría de las personas (alrededor del 80%) se recupera de la enfermedad sin necesidad de realizar ningún tratamiento especial. Alrededor de 1 de cada 6 personas que contraen la COVID-19 desarrolla una enfermedad grave y tiene dificultad para respirar. Las personas mayores y las que padecen afecciones médicas subyacentes, como hipertensión arterial, problemas cardiacos o diabetes, tienen más probabilidades de desarrollar una enfermedad grave. En torno al 2% de las personas que han contraído la enfermedad han muerto. Las personas que tengan fiebre, tos y dificultad para respirar deben buscar atención médica.</p>
                 </div>
             </div>
             <!--/.col-sm-6-->
 
-            <div class="col-sm-6">
-                <div class="progress-wrap">
-                    <h3>Graphic Design</h3>
-                    <div class="progress">
-                        <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
-                            <span class="bar-width">85%</span>
-                        </div>
-
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <div class="team-img">
+                        <img src="images/sin1.png" alt="">
                     </div>
-                </div>
-
-                <div class="progress-wrap">
-                    <h3>HTML</h3>
-                    <div class="progress">
-                        <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
-                            <span class="bar-width">95%</span>
-                        </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Fiebre > 37.5°</h4>
                     </div>
                 </div>
             </div>
-
-            <div class="col-sm-6">
-                <div class="progress-wrap">
-                    <h3>CSS</h3>
-                    <div class="progress">
-                        <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-                            <span class="bar-width">80%</span>
-                        </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <div class="team-img">
+                        <img src="images/sin2.png" alt="">
                     </div>
-                </div>
-
-                <div class="progress-wrap">
-                    <h3>Wordpress</h3>
-                    <div class="progress">
-                        <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%">
-                            <span class="bar-width">90%</span>
-                        </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Tos</h4>
                     </div>
                 </div>
             </div>
+            <div class="col-md-2 col-sm-6">
+                <div> <!--class="inner"-->
+                    <div class="team-img">
+                        <img src="images/sin3.png" alt="">
+                    </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Secrecion Nasal</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <div class="team-img">
+                        <img src="images/sin4.png" alt="">
+                    </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Dificultad para Respirar</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <div class="team-img">
+                        <img src="images/sin5.png" alt="">
+                    </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Dolor de Garganta</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <div class="team-img">
+                        <img src="images/sin6.png" alt="">
+                    </div>
+                    <div class="team-content">
+                        <h4 style="color:#FFF">Fatiga</h4>
+                    </div>
+                </div>
+            </div>	            
             
         </div>
         <!--/.row-->
@@ -87,112 +107,10 @@
 <section id="team-area">
     <div class="container">
         <div class="center fadeInDown">
-            <h2>Our Service</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team1.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Jeffery Poole</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team2.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Isabelle Dean</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team3.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Mike Kennedy</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team4.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Edwin Gross</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team5.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Mable Schwartz</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 single-team">
-                <div class="inner">
-                    <div class="team-img">
-                        <img src="images/team6.png" alt="">
-                    </div>
-                    <div class="team-content">
-                        <h4>Adele Washington</h4>
-                        <span class="desg">UI/UX Designer</span>
-                        <div class="team-social">
-                            <a class="fa fa-facebook" href="#"></a>
-                            <a class="fa fa-twitter" href="#"></a>
-                            <a class="fa fa-linkedin" href="#"></a>
-                            <a class="fa fa-pinterest" href="#"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <h2>¿Cómo se propaga la COVID-19?</h2>
+            <p class="lead">Una persona puede contraer la COVID-19 por contacto con otra que esté infectada por el virus. La enfermedad puede propagarse de persona a persona a través de las gotículas procedentes de la nariz o la boca que salen despedidas cuando una persona infectada tose o exhala. Estas gotículas caen sobre los objetos y superficies que rodean a la persona, de modo que otras personas pueden contraer la COVID-19 si tocan estos objetos o superficies y luego se tocan los ojos, la nariz o la boca. También pueden contagiarse si inhalan las gotículas que haya esparcido una persona con COVID-19 al toser o exhalar. Por eso es importante mantenerse a más de 1 metro (3 pies) de distancia de una persona que se encuentre enferma.
+
+La OMS está estudiando las investigaciones en curso sobre las formas de propagación de la COVID-19 y seguirá informando sobre los resultados actualizados.</p>
         </div>
     </div>
 </section>
